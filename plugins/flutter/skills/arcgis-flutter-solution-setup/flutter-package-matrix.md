@@ -6,7 +6,7 @@ Add the main package:
 
 ```yaml
 dependencies:
-  arcgis_maps: ^300.0.0
+  arcgis_maps: ^300.1.0
 ```
 
 Then run:
@@ -24,7 +24,7 @@ Add toolkit widgets when needed:
 
 ```yaml
 dependencies:
-  arcgis_maps_toolkit: ^300.0.0
+  arcgis_maps_toolkit: ^300.1.0
 ```
 
 The toolkit requires `arcgis_maps` to already be installed.
